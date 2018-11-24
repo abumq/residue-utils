@@ -1,14 +1,14 @@
 //
-// Copyright 2017-present Muflihun Labs
+// Copyright 2017-present Zuhd Web Services
 //
 // Common utils for Easylogging++ and Residue Node.js client
 //
 // Author: @abumusamq
 //
 // https://muflihun.com
-// https://muflihun.github.io/residue
-// https://github.com/muflihun/residue-node
-// https://github.com/muflihun/easyloggingpp-node
+// https://zuhd.org
+// https://github.com/zuhd-org/residue-node
+// https://github.com/zuhd-org/easyloggingpp-node
 //
 
 "use strict";

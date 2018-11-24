@@ -1,6 +1,6 @@
 {
   "name": "residue-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common utils for Easylogging++ and Residue Node.js client",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muflihun/residue-utils.git"
+    "url": "git+https://github.com/zuhd-org/residue-utils.git"
   },
-  "author": "Muflihun Labs <info@muflihun.com>",
+  "author": "Zuhd Web Services <opensource@zuhd.org>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/muflihun/residue-utils/issues"
+    "url": "https://github.com/zuhd-org/residue-utils/issues"
   },
-  "homepage": "https://github.com/muflihun/residue-utils#readme"
+  "homepage": "https://github.com/zuhd-org/residue-utils#readme"
 }
